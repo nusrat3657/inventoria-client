@@ -67,7 +67,7 @@ const SignUp = () => {
 
     return (
         <div>
-            <Helmet><title>Inventoria | Register</title></Helmet>
+            <Helmet><title>Inventoria | SignUp</title></Helmet>
             <div className="flex my-10">
                 <div className="max-w-96 lg:mt-36">
                     <img src={signUpImg} alt="" />

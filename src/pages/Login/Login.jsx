@@ -6,6 +6,7 @@ import Swal from "sweetalert2";
 import { AuthContext } from "../../providers/AuthProvider";
 import { FaEye, FaEyeSlash, FaGithub, FaGoogle } from "react-icons/fa";
 import loginImg from "../../assets/image/Login-pana (1).png"
+import { Helmet } from "react-helmet-async";
 
 const Login = () => {
 
@@ -67,6 +68,7 @@ const Login = () => {
 
     return (
         <div>
+            <Helmet><title>Inventoria | Login</title></Helmet>
             <div className="flex">
                 <div className="max-w-96 lg:mt-36">
                     <img src={loginImg} alt="" />
@@ -108,7 +110,7 @@ const Login = () => {
                             </label>
                         </div>
                         <div className="form-control mt-6">
-                            <button className="btn bg-amber-400 text-white font-semibold text-lg">Login</button>
+                            <button className="btn bg-amber-500 text-white font-semibold text-lg">Login</button>
                         </div>
                     </form>
                     <p className="font-semibold text-center">Don't have an account? Please <Link to='/signUp' className="text-red-500">Sign Up</Link></p>
@@ -117,10 +119,10 @@ const Login = () => {
                             <FaGoogle></FaGoogle>
                             Login with Google
                         </button>
-                        <button onClick={() => handleLogin(githubLogin)} className="btn btn-outline hover:bg-amber-500">
+                        {/* <button onClick={() => handleLogin(githubLogin)} className="btn btn-outline hover:bg-amber-500">
                             <FaGithub></FaGithub>
                             Login with Github
-                        </button>
+                        </button> */}
                     </div>
                 </div>
             </div>
