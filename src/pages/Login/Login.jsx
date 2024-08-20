@@ -4,13 +4,13 @@ import { useForm } from "react-hook-form";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 import { AuthContext } from "../../providers/AuthProvider";
-import { FaEye, FaEyeSlash, FaGithub, FaGoogle } from "react-icons/fa";
+import { FaEye, FaEyeSlash, FaGoogle } from "react-icons/fa";
 import loginImg from "../../assets/image/Login-pana (1).png"
 import { Helmet } from "react-helmet-async";
 
 const Login = () => {
 
-    const { user, signIn, googleLogin, githubLogin, loading } = useContext(AuthContext);
+    const { user, signIn, googleLogin, loading } = useContext(AuthContext);
     const navigate = useNavigate();
 
     useEffect( () => {

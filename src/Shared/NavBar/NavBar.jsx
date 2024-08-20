@@ -25,6 +25,7 @@ const NavBar = () => {
         <div>
             <div className="navbar z-10 bg-opacity-50  bg-orange-200 text-white mb-5">
                 <div className="navbar-start">
+                    <img className="w-14" src="https://i.ibb.co/tpr560D/world-consumer-rights-day-illustration-with-shopping-cart.png" alt="" />
                     <a className="btn btn-ghost text-2xl font-bold font-lilita"><span className=" text-orange-500">Inventoria</span></a>
                 </div>
                 {/* <a className="btn btn-ghost font-bold text-xl"><span className=" text-orange-500">Inventoria</span></a> */}
