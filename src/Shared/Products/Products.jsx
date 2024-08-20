@@ -56,7 +56,7 @@ const Products = () => {
         <div>
             <div className="my-5">
                 <h2 className="text-center text-3xl font-bold tracking-tight text-orange-600 sm:text-4xl mb-4">Our Products</h2>
-                <p className="mx-auto w-[57%] text-center mb-5">We'll buy either for pleasure or to sell later for profit. It should come to no surprise that our food is made the same way because we are what we eat.</p>
+                <p className="mx-auto w-[57%] text-center mb-5">Discover the perfect blend of style and functionality with our latest collection. From sleek electronics to trendy fashion, find everything you need in one place. Shop now and elevate your lifestyle with our top-rated products, all available at unbeatable prices.</p>
             </div>
             <div className="lg:flex justify-between">
                 {/* Search Bar */}
