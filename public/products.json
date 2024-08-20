@@ -172,30 +172,33 @@
     },
     {
       "productName": "Smart TV",
-      "productImage": "https://example.com/images/smart-tv.jpg",
+      "productImage": "https://i.ibb.co/pj5JvQY/marques-kaspbrak-n1amn-SHKzw-unsplash.jpg",
       "description": "55-inch 4K Smart TV with streaming apps.",
       "price": 500.00,
       "category": "Electronics",
       "ratings": 4.8,
-      "createdAt": "2024-08-01T13:10:00Z"
+      "createdAt": "2024-08-01T13:10:00Z",
+      "brand": "Samsung"
     },
     {
       "productName": "Vacuum Cleaner",
-      "productImage": "https://example.com/images/vacuum-cleaner.jpg",
+      "productImage": "https://i.ibb.co/V38JzK1/toon-lambrechts-0-FTI9ce-TUOc-unsplash.jpg",
       "description": "Cordless vacuum cleaner with powerful suction.",
       "price": 150.00,
       "category": "Home Appliances",
       "ratings": 4.6,
-      "createdAt": "2024-08-01T13:20:00Z"
+      "createdAt": "2024-08-01T13:20:00Z",
+      "brand": "Walton"
     },
     {
       "productName": "Espresso Machine",
-      "productImage": "https://example.com/images/espresso-machine.jpg",
+      "productImage": "https://i.ibb.co/fx3ysCn/busra-salkim-WHw-Ypn0fhaw-unsplash.jpg",
       "description": "Automatic espresso machine with milk frother.",
       "price": 200.00,
       "category": "Home Appliances",
       "ratings": 4.7,
-      "createdAt": "2024-08-01T13:30:00Z"
+      "createdAt": "2024-08-01T13:30:00Z",
+      "brand": ""
     },
     {
       "productName": "Dishwasher",
@@ -204,7 +207,8 @@
       "price": 300.00,
       "category": "Home Appliances",
       "ratings": 4.5,
-      "createdAt": "2024-08-01T13:40:00Z"
+      "createdAt": "2024-08-01T13:40:00Z",
+      "brand":
     },
     {
       "productName": "Air Conditioner",
@@ -213,7 +217,8 @@
       "price": 250.00,
       "category": "Home Appliances",
       "ratings": 4.4,
-      "createdAt": "2024-08-01T13:50:00Z"
+      "createdAt": "2024-08-01T13:50:00Z",
+      "brand":
     },
     {
       "productName": "Washing Machine",
@@ -222,7 +227,8 @@
       "price": 400.00,
       "category": "Home Appliances",
       "ratings": 4.7,
-      "createdAt": "2024-08-01T14:00:00Z"
+      "createdAt": "2024-08-01T14:00:00Z",
+      "brand":
     },
     {
       "productName": "Refrigerator",
@@ -231,7 +237,8 @@
       "price": 800.00,
       "category": "Home Appliances",
       "ratings": 4.8,
-      "createdAt": "2024-08-01T14:10:00Z"
+      "createdAt": "2024-08-01T14:10:00Z",
+      "brand":
     },
     {
       "productName": "Microwave Oven",
@@ -240,7 +247,8 @@
       "price": 90.00,
       "category": "Home Appliances",
       "ratings": 4.3,
-      "createdAt": "2024-08-01T14:20:00Z"
+      "createdAt": "2024-08-01T14:20:00Z",
+      "brand":
     },
     {
       "productName": "Hair Dryer",

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
 import { FaArrowLeft, FaArrowRight, FaSearch } from "react-icons/fa";
@@ -25,7 +26,7 @@ const Products = () => {
             searchQuery,
         });
 
-        fetch(`http://localhost:5000/products?${queryParams}`)
+        fetch(`https://job-task-server-murex.vercel.app/products?${queryParams}`)
             .then(res => res.json())
             .then(data => {
                 setProducts(data.products);
