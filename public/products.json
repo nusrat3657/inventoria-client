@@ -1,0 +1,345 @@
+[
+    {
+      "productName": "Wireless Mouse",
+      "productImage": "https://i.ibb.co/DK2S2G0/purple-computer-mouse.jpg",
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "price": 25.99,
+      "category": "Electronics",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T10:00:00Z"
+    },
+    {
+      "productName": "Bluetooth Speaker",
+      "productImage": "https://i.ibb.co/tmMVJ4f/still-life-tech-device.jpg",
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "price": 45.00,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T10:10:00Z"
+    },
+    {
+      "productName": "Running Shoes",
+      "productImage": "https://i.ibb.co/PgVRLf3/new-pair-white-sneakers-isolated-white.jpg",
+      "description": "Lightweight running shoes for all terrains.",
+      "price": 60.00,
+      "category": "Footwear",
+      "ratings": 4.2,
+      "createdAt": "2024-08-01T10:20:00Z"
+    },
+    {
+      "productName": "Laptop Bag",
+      "productImage": "https://i.ibb.co/ccrHLSg/brown-briefcase-with-tablet.jpg",
+      "description": "Durable laptop bag with multiple compartments.",
+      "price": 35.50,
+      "category": "Accessories",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T10:30:00Z"
+    },
+    {
+      "productName": "Digital Watch",
+      "productImage": "https://i.ibb.co/2ZDYpPx/close-up-man-with-smartwatch.jpg",
+      "description": "Water-resistant digital watch with backlight.",
+      "price": 15.75,
+      "category": "Accessories",
+      "ratings": 4.1,
+      "createdAt": "2024-08-01T10:40:00Z"
+    },
+    {
+      "productName": "Smartphone",
+      "productImage": "https://i.ibb.co/DCpxt4n/new-cell-phone-white-background.jpg",
+      "description": "Latest model smartphone with high-resolution display.",
+      "price": 699.99,
+      "category": "Electronics",
+      "ratings": 4.8,
+      "createdAt": "2024-08-01T10:50:00Z"
+    },
+    {
+      "productName": "Headphones",
+      "productImage": "https://i.ibb.co/LZyj8jG/human-hand-holding-headphone-white-background.jpg",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 85.00,
+      "category": "Electronics",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T11:00:00Z"
+    },
+    {
+      "productName": "Yoga Mat",
+      "productImage": "https://i.ibb.co/QdV0dc4/studio-shot-young-fit-woman-doing-yoga-exercises-isolated-white-background.jpg",
+      "description": "Non-slip yoga mat with cushioned support.",
+      "price": 20.00,
+      "category": "Fitness",
+      "ratings": 4.3,
+      "createdAt": "2024-08-01T11:10:00Z"
+    },
+    {
+      "productName": "Water Bottle",
+      "productImage": "https://i.ibb.co/KwD6zrd/sport-plastic-water-bottle-white.jpg",
+      "description": "Insulated stainless steel water bottle.",
+      "price": 18.50,
+      "category": "Fitness",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T11:20:00Z"
+    },
+    {
+      "productName": "Sunglasses",
+      "productImage": "https://i.ibb.co/TgftM0G/sunglasses.jpg",
+      "description": "Polarized sunglasses with UV protection.",
+      "price": 25.00,
+      "category": "Accessories",
+      "ratings": 4.2,
+      "createdAt": "2024-08-01T11:30:00Z"
+    },
+    {
+      "productName": "Backpack",
+      "productImage": "https://i.ibb.co/g4VnkfH/view-3d-school-backpack.jpg",
+      "description": "Waterproof backpack with padded straps.",
+      "price": 40.00,
+      "category": "Accessories",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T11:40:00Z"
+    },
+    {
+      "productName": "Gaming Keyboard",
+      "productImage": "https://i.ibb.co/gmH58Gh/pink-keyboard-mouse.jpg",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 75.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T11:50:00Z"
+    },
+    {
+      "productName": "Power Bank",
+      "productImage": "https://i.ibb.co/ry8KKxc/powerful-external-battery-with-usb-wire.jpg",
+      "description": "High-capacity power bank with fast charging.",
+      "price": 30.00,
+      "category": "Electronics",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "productName": "Tablet",
+      "productImage": "https://i.ibb.co/yWDLFqJ/tablet-wood-background.jpg",
+      "description": "10-inch tablet with HD display.",
+      "price": 150.00,
+      "category": "Electronics",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T12:10:00Z"
+    },
+    {
+      "productName": "Office Chair",
+      "productImage": "https://i.ibb.co/2cwcw67/modern-chair-made-wicker.jpg",
+      "description": "Ergonomic office chair with lumbar support.",
+      "price": 120.00,
+      "category": "Furniture",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T12:20:00Z"
+    },
+    {
+      "productName": "Desk Lamp",
+      "productImage": "https://i.ibb.co/7JWkh45/laptop-desk-lamp-white-background.jpg",
+      "description": "LED desk lamp with adjustable brightness.",
+      "price": 35.00,
+      "category": "Furniture",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T12:30:00Z"
+    },
+    {
+      "productName": "Coffee Maker",
+      "productImage": "https://i.ibb.co/5xK5X2D/coffee-grinder-beans-coffee-front-view.jpg",
+      "description": "Single-serve coffee maker with fast brewing.",
+      "price": 55.00,
+      "category": "Home Appliances",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T12:40:00Z"
+    },
+    {
+      "productName": "Blender",
+      "productImage": "https://i.ibb.co/C0JVXfQ/blender-juice-machine.jpg",
+      "description": "High-speed blender for smoothies and shakes.",
+      "price": 65.00,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T12:50:00Z"
+    },
+    {
+      "productName": "Air Fryer",
+      "productImage": "https://i.ibb.co/RTzXRSP/close-up-air-fryer.jpg",
+      "description": "Digital air fryer with adjustable temperature.",
+      "price": 80.00,
+      "category": "Home Appliances",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T13:00:00Z"
+    },
+    {
+      "productName": "Smart TV",
+      "productImage": "https://example.com/images/smart-tv.jpg",
+      "description": "55-inch 4K Smart TV with streaming apps.",
+      "price": 500.00,
+      "category": "Electronics",
+      "ratings": 4.8,
+      "createdAt": "2024-08-01T13:10:00Z"
+    },
+    {
+      "productName": "Vacuum Cleaner",
+      "productImage": "https://example.com/images/vacuum-cleaner.jpg",
+      "description": "Cordless vacuum cleaner with powerful suction.",
+      "price": 150.00,
+      "category": "Home Appliances",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T13:20:00Z"
+    },
+    {
+      "productName": "Espresso Machine",
+      "productImage": "https://example.com/images/espresso-machine.jpg",
+      "description": "Automatic espresso machine with milk frother.",
+      "price": 200.00,
+      "category": "Home Appliances",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T13:30:00Z"
+    },
+    {
+      "productName": "Dishwasher",
+      "productImage": "https://example.com/images/dishwasher.jpg",
+      "description": "Energy-efficient dishwasher with multiple settings.",
+      "price": 300.00,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T13:40:00Z"
+    },
+    {
+      "productName": "Air Conditioner",
+      "productImage": "https://example.com/images/air-conditioner.jpg",
+      "description": "Portable air conditioner with remote control.",
+      "price": 250.00,
+      "category": "Home Appliances",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T13:50:00Z"
+    },
+    {
+      "productName": "Washing Machine",
+      "productImage": "https://example.com/images/washing-machine.jpg",
+      "description": "Front-loading washing machine with steam function.",
+      "price": 400.00,
+      "category": "Home Appliances",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T14:00:00Z"
+    },
+    {
+      "productName": "Refrigerator",
+      "productImage": "https://example.com/images/refrigerator.jpg",
+      "description": "Energy-efficient refrigerator with double doors.",
+      "price": 800.00,
+      "category": "Home Appliances",
+      "ratings": 4.8,
+      "createdAt": "2024-08-01T14:10:00Z"
+    },
+    {
+      "productName": "Microwave Oven",
+      "productImage": "https://example.com/images/microwave-oven.jpg",
+      "description": "Compact microwave oven with preset functions.",
+      "price": 90.00,
+      "category": "Home Appliances",
+      "ratings": 4.3,
+      "createdAt": "2024-08-01T14:20:00Z"
+    },
+    {
+      "productName": "Hair Dryer",
+      "productImage": "https://example.com/images/hair-dryer.jpg",
+      "description": "Professional hair dryer with multiple heat settings.",
+      "price": 40.00,
+      "category": "Beauty",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T14:30:00Z"
+    },
+    {
+      "productName": "Electric Toothbrush",
+      "productImage": "https://example.com/images/electric-toothbrush.jpg",
+      "description": "Rechargeable electric toothbrush with timer.",
+      "price": 30.00,
+      "category": "Beauty",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T14:40:00Z"
+    },
+    {
+      "productName": "Shaving Kit",
+      "productImage": "https://example.com/images/shaving-kit.jpg",
+      "description": "Complete shaving kit with razor, brush, and cream.",
+      "price": 50.00,
+      "category": "Beauty",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T14:50:00Z"
+    },
+    {
+      "productName": "Makeup Kit",
+      "productImage": "https://example.com/images/makeup-kit.jpg",
+      "description": "All-in-one makeup kit with brushes and mirror.",
+      "price": 75.00,
+      "category": "Beauty",
+      "ratings": 4.7,
+      "createdAt": "2024-08-01T15:00:00Z"
+    },
+    {
+      "productName": "Perfume",
+      "productImage": "https://example.com/images/perfume.jpg",
+      "description": "Long-lasting perfume with a fresh scent.",
+      "price": 65.00,
+      "category": "Beauty",
+      "ratings": 4.8,
+      "createdAt": "2024-08-01T15:10:00Z"
+    },
+    {
+      "productName": "Electric Kettle",
+      "productImage": "https://example.com/images/electric-kettle.jpg",
+      "description": "Fast-boiling electric kettle with auto shut-off.",
+      "price": 25.00,
+      "category": "Home Appliances",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T15:20:00Z"
+    },
+    {
+      "productName": "Toaster",
+      "productImage": "https://example.com/images/toaster.jpg",
+      "description": "4-slice toaster with browning control.",
+      "price": 35.00,
+      "category": "Home Appliances",
+      "ratings": 4.3,
+      "createdAt": "2024-08-01T15:30:00Z"
+    },
+    {
+      "productName": "Juicer",
+      "productImage": "https://example.com/images/juicer.jpg",
+      "description": "Cold-press juicer for healthy juice extraction.",
+      "price": 90.00,
+      "category": "Home Appliances",
+      "ratings": 4.6,
+      "createdAt": "2024-08-01T15:40:00Z"
+    },
+    {
+      "productName": "Iron",
+      "productImage": "https://example.com/images/iron.jpg",
+      "description": "Steam iron with adjustable temperature settings.",
+      "price": 25.00,
+      "category": "Home Appliances",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T15:50:00Z"
+    },
+    {
+      "productName": "Hair Straightener",
+      "productImage": "https://example.com/images/hair-straightener.jpg",
+      "description": "Ceramic hair straightener with fast heating.",
+      "price": 40.00,
+      "category": "Beauty",
+      "ratings": 4.5,
+      "createdAt": "2024-08-01T16:00:00Z"
+    },
+    {
+      "productName": "Blow Dryer",
+      "productImage": "https://example.com/images/blow-dryer.jpg",
+      "description": "Powerful blow dryer with cool shot button.",
+      "price": 35.00,
+      "category": "Beauty",
+      "ratings": 4.4,
+      "createdAt": "2024-08-01T16:10:00Z"
+    }
+  ]
+  
