@@ -198,37 +198,37 @@
       "category": "Home Appliances",
       "ratings": 4.7,
       "createdAt": "2024-08-01T13:30:00Z",
-      "brand": ""
+      "brand": "Samsung"
     },
     {
       "productName": "Dishwasher",
-      "productImage": "https://example.com/images/dishwasher.jpg",
+      "productImage": "https://i.ibb.co/fpX5Xdy/point3d-commercial-imaging-ltd-s-XMm-Fig-M3p4-unsplash.jpg",
       "description": "Energy-efficient dishwasher with multiple settings.",
       "price": 300.00,
       "category": "Home Appliances",
       "ratings": 4.5,
       "createdAt": "2024-08-01T13:40:00Z",
-      "brand":
+      "brand": "Walton"
     },
     {
       "productName": "Air Conditioner",
-      "productImage": "https://example.com/images/air-conditioner.jpg",
+      "productImage": "https://i.ibb.co/2tcjWpV/air-conditioning-decoration-interior.jpg",
       "description": "Portable air conditioner with remote control.",
       "price": 250.00,
       "category": "Home Appliances",
       "ratings": 4.4,
       "createdAt": "2024-08-01T13:50:00Z",
-      "brand":
+      "brand": "Walton"
     },
     {
       "productName": "Washing Machine",
-      "productImage": "https://example.com/images/washing-machine.jpg",
+      "productImage": "https://i.ibb.co/W6XDfpX/pexels-rdne-5591646.jpg",
       "description": "Front-loading washing machine with steam function.",
       "price": 400.00,
       "category": "Home Appliances",
       "ratings": 4.7,
       "createdAt": "2024-08-01T14:00:00Z",
-      "brand":
+      "brand":"Samsung"
     },
     {
       "productName": "Refrigerator",
