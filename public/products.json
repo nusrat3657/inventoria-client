@@ -37,30 +37,31 @@
     },
     {
       "productName": "Digital Watch",
-      "productImage": "https://i.ibb.co/2ZDYpPx/close-up-man-with-smartwatch.jpg",
+      "productImage": "https://i.ibb.co/TBy5xxc/fitness-tracker-sport-bracelet-smartwatch-technology.jpg",
       "description": "Water-resistant digital watch with backlight.",
       "price": 15.75,
       "category": "Accessories",
       "ratings": 4.1,
-      "createdAt": "2024-08-01T10:40:00Z"
+      "createdAt": "2024-08-01T14:50:00Z",
+      "brand": "Lenovo"
     },
     {
       "productName": "Smartphone",
-      "productImage": "https://i.ibb.co/DCpxt4n/new-cell-phone-white-background.jpg",
+      "productImage": "https://i.ibb.co/Jtddf95/peach-colored-flower-head-cellphone-wooden-shutter-backdrop.jpg",
       "description": "Latest model smartphone with high-resolution display.",
       "price": 699.99,
       "category": "Electronics",
       "ratings": 4.8,
-      "createdAt": "2024-08-01T10:50:00Z"
+      "createdAt": "2024-08-01T14:40:00Z"
     },
     {
       "productName": "Headphones",
-      "productImage": "https://i.ibb.co/LZyj8jG/human-hand-holding-headphone-white-background.jpg",
+      "productImage": "https://i.ibb.co/HhcWN7Q/flat-lay-composition-with-microphone-podcasts-black-studio-headphones-yellow-background-with-coffee.jpg",
       "description": "Noise-cancelling over-ear headphones.",
       "price": 85.00,
       "category": "Electronics",
       "ratings": 4.6,
-      "createdAt": "2024-08-01T11:00:00Z"
+      "createdAt": "2024-08-01T15:10:00Z"
     },
     {
       "productName": "Yoga Mat",
