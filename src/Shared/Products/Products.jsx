@@ -111,6 +111,7 @@ const Products = () => {
                         <option value="Fitness">Fitness</option>
                         <option value="Furniture">Furniture</option>
                         <option value="Home Appliances">Home Appliances</option>
+                        <option value="Beauty">Beauty</option>
                     </select>
 
                     {/* Price Range Filter */}
