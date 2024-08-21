@@ -28,12 +28,13 @@
     },
     {
       "productName": "Laptop Bag",
-      "productImage": "https://i.ibb.co/ccrHLSg/brown-briefcase-with-tablet.jpg",
+      "productImage": "https://i.ibb.co/PmC94dh/man-packing-away-his-laptop-into-bag.jpg",
       "description": "Durable laptop bag with multiple compartments.",
       "price": 35.50,
       "category": "Accessories",
       "ratings": 4.4,
-      "createdAt": "2024-08-01T10:30:00Z"
+      "createdAt": "2024-08-01T10:20:00Z",
+      "brand": "Puma"
     },
     {
       "productName": "Digital Watch",
@@ -74,12 +75,13 @@
     },
     {
       "productName": "Water Bottle",
-      "productImage": "https://i.ibb.co/KwD6zrd/sport-plastic-water-bottle-white.jpg",
+      "productImage": "https://i.ibb.co/bWxg8cJ/white-reusable-water-bottle.jpg",
       "description": "Insulated stainless steel water bottle.",
       "price": 18.50,
       "category": "Fitness",
       "ratings": 4.5,
-      "createdAt": "2024-08-01T11:20:00Z"
+      "createdAt": "2024-08-01T11:10:00Z",
+      "brand": "Puma"
     },
     {
       "productName": "Sunglasses",
@@ -119,12 +121,13 @@
     },
     {
       "productName": "Tablet",
-      "productImage": "https://i.ibb.co/yWDLFqJ/tablet-wood-background.jpg",
+      "productImage": "https://i.ibb.co/XF7ywkV/man-using-digital-tablet.jpg",
       "description": "10-inch tablet with HD display.",
       "price": 150.00,
       "category": "Electronics",
       "ratings": 4.5,
-      "createdAt": "2024-08-01T12:10:00Z"
+      "createdAt": "2024-08-01T12:20:00Z",
+      "brand": "Samsung"
     },
     {
       "productName": "Office Chair",
@@ -233,13 +236,13 @@
     },
     {
       "productName": "Refrigerator",
-      "productImage": "https://example.com/images/refrigerator.jpg",
+      "productImage": "https://i.ibb.co/1fw0GkZ/retro-refrigerator-indoors.jpg",
       "description": "Energy-efficient refrigerator with double doors.",
       "price": 800.00,
       "category": "Home Appliances",
       "ratings": 4.8,
       "createdAt": "2024-08-01T14:10:00Z",
-      "brand":
+      "brand": "Walton"
     },
     {
       "productName": "Microwave Oven",
@@ -325,12 +328,13 @@
     },
     {
       "productName": "Iron",
-      "productImage": "https://example.com/images/iron.jpg",
+      "productImage": "https://i.ibb.co/cXN9jmz/close-up-woman-holding-iron.jpg",
       "description": "Steam iron with adjustable temperature settings.",
       "price": 25.00,
       "category": "Home Appliances",
       "ratings": 4.4,
-      "createdAt": "2024-08-01T15:50:00Z"
+      "createdAt": "2024-08-01T15:50:00Z",
+      "brand": "Walton"
     },
     {
       "productName": "Hair Straightener",
