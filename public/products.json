@@ -256,12 +256,13 @@
     },
     {
       "productName": "Hair Dryer",
-      "productImage": "https://example.com/images/hair-dryer.jpg",
+      "productImage": "https://i.ibb.co/KjBHxzb/young-pretty-woman-holding-hair-dryer-straightening-isolated-white.jpg",
       "description": "Professional hair dryer with multiple heat settings.",
       "price": 40.00,
       "category": "Beauty",
       "ratings": 4.4,
-      "createdAt": "2024-08-01T14:30:00Z"
+      "createdAt": "2024-08-01T14:30:00Z",
+      "brand": "Walton"
     },
     {
       "productName": "Electric Toothbrush",
@@ -338,12 +339,13 @@
     },
     {
       "productName": "Hair Straightener",
-      "productImage": "https://example.com/images/hair-straightener.jpg",
+      "productImage": "https://i.ibb.co/KjBHxzb/young-pretty-woman-holding-hair-dryer-straightening-isolated-white.jpg",
       "description": "Ceramic hair straightener with fast heating.",
       "price": 40.00,
       "category": "Beauty",
       "ratings": 4.5,
-      "createdAt": "2024-08-01T16:00:00Z"
+      "createdAt": "2024-08-01T16:00:00Z",
+      "brand": "Walton"
     },
     {
       "productName": "Blow Dryer",
